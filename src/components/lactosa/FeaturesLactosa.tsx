@@ -30,7 +30,7 @@ const features: Feature[] = [
     description: null,
     list: [
       "Medallon de ternera",
-      "Carne paleo de pollo",
+      "Pechuga de pollo",
       "Carne paleo de costilla",
     ],
   },
