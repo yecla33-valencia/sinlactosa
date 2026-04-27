@@ -1,0 +1,26 @@
+name: Desplegar a Hostinger
+on:
+  push:
+    branches:
+      - main  # Revisa si tu rama se llama main o master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚚 Obtener código
+        uses: actions/checkout@v3
+
+      - name: 🏗️ Instalar y Compilar
+        run: |
+          npm install
+          npm run build
+
+      - name: 🚀 Subir archivos por FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./dist/
+          server-dir: /vegetarianburgers/
