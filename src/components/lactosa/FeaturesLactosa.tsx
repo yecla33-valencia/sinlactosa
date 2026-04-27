@@ -16,7 +16,7 @@ const features: Feature[] = [
     icon: BadgeEuro,
     title: "Personalización lactosa free",
     description: null,
-    list: ["Ingredientes 100% sin lactosa", "Salsas sin lácteos", "Opciones bajas en grasa"],
+    list: ["Elige tu pan sin lácteos", "Elige tu salsa sin lácteos", "Elige tu queso sin lácteos"],
   },
   {
     icon: Cookie,
