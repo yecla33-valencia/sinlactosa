@@ -31,7 +31,7 @@ const features: Feature[] = [
     list: [
       "Medallon de ternera",
       "Pechuga de pollo",
-      "Carne paleo de costilla",
+      "Doble smash de pollo",
     ],
   },
   {
