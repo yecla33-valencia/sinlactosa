@@ -26,7 +26,7 @@ const features: Feature[] = [
   },
   {
     icon: BurgerIcon,
-    title: "6 hamburguesas a elegir",
+    title: "4 hamburguesas a elegir",
     description: null,
     list: [
       "Medallon de ternera",
