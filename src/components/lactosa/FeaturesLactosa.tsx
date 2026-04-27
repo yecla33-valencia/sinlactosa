@@ -32,6 +32,7 @@ const features: Feature[] = [
       "Medallon de ternera",
       "Pechuga de pollo",
       "Doble smash de pollo",
+      "Ternera ecológica de pasto",
     ],
   },
   {
