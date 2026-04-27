@@ -39,7 +39,7 @@ const features: Feature[] = [
     icon: SprayCan,
     title: "3 tipos de salsas",
     description: null,
-    list: ["Salsas clásicas sin lácteos", "Salsa de queso vegano"],
+    list: ["Salsas clásicas sin lácteos", "Salsa de queso vegano", "Guacamole"],
   },
 ];
 
