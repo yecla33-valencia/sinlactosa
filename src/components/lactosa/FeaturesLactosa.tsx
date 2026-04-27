@@ -29,7 +29,7 @@ const features: Feature[] = [
     title: "6 hamburguesas a elegir",
     description: null,
     list: [
-      "Carne paleo de ternera",
+      "Medallon de ternera",
       "Carne paleo de pollo",
       "Carne paleo de costilla",
     ],
