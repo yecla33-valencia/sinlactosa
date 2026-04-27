@@ -12,7 +12,7 @@ const LactosaFree = () => {
   useEffect(() => {
     document.title = "Hamburguesas sin lactosa en Valencia · Yecla 33";
     const meta = document.querySelector('meta[name="description"]');
-    if (meta) meta.setAttribute("content", "Hamburguesas sin lactosa en Valencia. Yecla 33, sabor artesanal 100% lactosa free.");
+    if (meta) meta.setAttribute("content", "Hamburguesas sin lactosa en Valencia. Yecla 33, sabor artesanal 100% lactosa free. A domicilio y para llevar.");
   }, []);
 
   return (
