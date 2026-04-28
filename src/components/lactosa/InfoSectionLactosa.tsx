@@ -37,7 +37,7 @@ const InfoSectionLactosa = () => {
                 <a href="https://www.ubereats.com/es/store/keto-%26-protein-burgers-valencia/IhbQIDh4Ue-xYsfx60dHHw?diningMode=DELIVERY&effect=&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkF2LiUyME1hcmUlMjBOb3N0cnVtJTJDJTIwNDAlMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJDaElKdDdoSlg5aEhZQTBSRVdqNlc2VHlRaE0lMjIlMkMlMjJyZWZlcmVuY2VUeXBlJTIyJTNBJTIyZ29vZ2xlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBMzkuNDg3NjM5NCUyQyUyMmxvbmdpdHVkZSUyMiUzQS0wLjMyNTQ4NDUlN0Q%3D&ps=1" target="_blank" rel="noopener noreferrer">Uber Eats</a>
               </Button>
               <Button asChild className="w-2/3 bg-[#FFC244] hover:bg-[#FFC244]/90 text-black">
-                <a href="https://glovoapp.com/es/es/valencia/stores/vegetarian-artichoke-burger-valencia" target="_blank" rel="noopener noreferrer">Glovo</a>
+                <a href="https://glovoapp.com/es/es/valencia/stores/ketoandpaleoandfitness-smash-burgers-valencia?content=carta-c.1264032928&section=burgers-paleo-s.2931161781" target="_blank" rel="noopener noreferrer">Glovo</a>
               </Button>
             </div>
           </div>
