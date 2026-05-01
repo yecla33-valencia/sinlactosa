@@ -14,7 +14,7 @@ type Feature = {
 const features: Feature[] = [
   {
     icon: BadgeEuro,
-    title: "Personalización lactosa free",
+    title: "Personalización lactose free",
     description: null,
     list: ["Elige tu pan sin lácteos", "Elige tu salsa sin lácteos", "Elige tu queso sin lácteos"],
   },

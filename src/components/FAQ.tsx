@@ -60,7 +60,7 @@ const faqs = [
   },
   {
     q: "¿Puedo pedir mi hamburguesa sin lactosa?",
-    a: "Sí. Todas nuestras hamburguesas vegetarianas se pueden customizar en versión lactosa free.",
+    a: "Sí. Todas nuestras hamburguesas vegetarianas se pueden customizar en versión lactose free.",
   },
   {
     q: "¿Puedo elegir la salsa de la hamburguesa?",
