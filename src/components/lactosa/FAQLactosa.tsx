@@ -8,11 +8,11 @@ import {
 const faqs = [
   {
     q: "¿Dónde pedir hamburguesas sin lactosa en Valencia?",
-    a: "En Hamburguesas Lactosa Free by Yecla 33 puedes pedir hamburguesas sin lactosa en Valencia tanto a domicilio como para recoger en nuestra tienda de Calle Yecla 33, en Algirós.",
+    a: "En Hamburguesas Lactose Free by Yecla 33 puedes pedir hamburguesas sin lactosa en Valencia tanto a domicilio como para recoger en nuestra tienda de Calle Yecla 33, en Algirós.",
   },
   {
     q: "¿Repartís hamburguesas sin lactosa en todos los barrios de Valencia capital?",
-    a: "Sí. Repartimos nuestras hamburguesas lactosa free en todos los barrios de Valencia capital, para que puedas pedir cómodamente estés donde estés.",
+    a: "Sí. Repartimos nuestras hamburguesas lactose free en todos los barrios de Valencia capital, para que puedas pedir cómodamente estés donde estés.",
   },
   {
     q: "¿También puedo pedir para recoger en Yecla 33?",
@@ -51,7 +51,7 @@ const faqs = [
     a: "La forma más directa es elegir una carne con mayor aporte proteico y combinarla con el pan que mejor encaje contigo.",
   },
   {
-    q: "¿Cómo puedo reducir carbohidratos en mi burger lactosa free?",
+    q: "¿Cómo puedo reducir carbohidratos en mi burger lactose free?",
     a: "Puedes reducir carbohidratos cambiando el tipo de pan. Por ejemplo, eligiendo pan de lechuga.",
   },
   {
