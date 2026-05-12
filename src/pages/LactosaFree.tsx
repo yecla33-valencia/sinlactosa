@@ -5,6 +5,7 @@ import MenuSectionLactosa from "@/components/lactosa/MenuSectionLactosa";
 import FeaturesSecondaryLactosa from "@/components/lactosa/FeaturesSecondaryLactosa";
 import InfoSectionLactosa from "@/components/lactosa/InfoSectionLactosa";
 import FAQLactosa from "@/components/lactosa/FAQLactosa";
+import AlergenosLactosa from "@/components/lactosa/AlergenosLactosa";
 import Footer from "@/components/Footer";
 import { useEffect } from "react";
 
@@ -23,6 +24,7 @@ const LactosaFree = () => {
       <MenuSectionLactosa />
       <FeaturesSecondaryLactosa />
       <InfoSectionLactosa />
+      <AlergenosLactosa />
       <FAQLactosa />
       <Footer />
     </div>
