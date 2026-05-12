@@ -17,6 +17,7 @@ const NavbarLactosa = () => {
     { label: "Nosotros", href: "#nosotros", active: false },
     { label: "Carta", href: "#menu", active: false },
     { label: "Alérgenos", href: "#alergenos", active: false },
+    { label: "Valores nutricionales", href: "#valores-nutricionales", active: false },
     { label: "Contacto", href: "#contacto", active: false },
   ];
 
