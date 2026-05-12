@@ -26,6 +26,7 @@ const LactosaFree = () => {
       <FeaturesSecondaryLactosa />
       <InfoSectionLactosa />
       <AlergenosLactosa />
+      <ValoresNutricionalesLactosa />
       <FAQLactosa />
       <Footer />
     </div>
